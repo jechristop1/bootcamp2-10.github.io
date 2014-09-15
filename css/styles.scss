@@ -1,0 +1,10 @@
+$red: red;
+$orange: orange;
+$yellow: yellow;
+
+body {
+    background-color: $red;
+    h1 {
+        color: $orange;
+    }
+}
