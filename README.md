@@ -1,6 +1,9 @@
-####Software we'll be using:
-----------------------------
+##Software we'll be using:
 Brackets IDE<br />
+	1. LivePreview<br />
+	2. Code Highlighting<br />
+	3. Easy Plugin Installation<br />
+	4. Completely Free and Open Source<br /><br />
 PreProc Compiler<br />
 Github GUI
 
