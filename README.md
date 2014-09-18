@@ -1,5 +1,5 @@
 ##Bootcamp2 Syllabus:
-####__Week 1__ <br>
+####__Week 1__
 Installation of Adobe Brackets IDE, Chrome, GitHub Windows/Mac desktop app Introduction to Github <br>
 USPS HTML5/CSS3 refresher project: <br>
 Basic HTML/CSS <br>
@@ -9,12 +9,12 @@ Relative/Absolute positioning <br>
 Pixels vs Ems (time permitting) <br>
 jQuery global font-size increase/decrease (time permitting) <br>
 
-####__Week 2__ <br>
+####__Week 2__
 Installation of PrePros <br>
 Introduction to SASS _((nice writeup of differences between SASS/SCSS)[http://www.sitepoint.com/whats-difference-sass-scss/])_ <br>
 
 ####__Week 3__
-######SASS usage quiz <br>
+#####SASS usage quiz
 What makes a website responsive? <br>
 Introduction to Viewport meta tag & Media Queries <br>
 Introduction to Bootstrap v3.2.x <br>
@@ -22,19 +22,20 @@ Introduction to PureCSS v0.5.x <br>
 Bootstrap vs PureCSS (advantages/disadvantages) <br>
 
 ####__Week 4__
-######Media Queries / Bootstrap / PureCSS usage quiz <br>
+#####Media Queries / Bootstrap / PureCSS usage quiz
 Introduction to Flexbox <br>
 
 ####__Week 5__
+#####Flexbox usage quiz
 Installation of Photoshop CC 30 day trial Introduction to Photoshop <br>
 Basic tool usage <br>
 Example walkthroughs <br>
-Tattoo application <br>
 Image touch up <br>
+Tattoo application <br>
 Image cropping technique via color channels Example walkthrough <br>
 Removal of model from background <br>
 
-####__Week 6__ <br>
+####__Week 6__
 Breakdown of final project / Expectations <br>
 Final student project work week Q&A <br> <br>
 
