@@ -37,7 +37,8 @@ Removal of model from background <br>
 
 ####__Week 6__
 Breakdown of final project / Expectations <br>
-Final student project work week Q&A <br> <br>
+Final student project work week <br>
+Q & A <br> <br>
 
 ##Software we'll be using:
 ######[Adobe Brackets IDE](http://brackets.io/?lang=en)
