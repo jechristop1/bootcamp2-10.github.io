@@ -5,8 +5,11 @@
 &nbsp;&nbsp;3. Code Highlighting <br>
 &nbsp;&nbsp;4. Easy Plugin Installation <br>
 [PrePros Compiler](http://alphapixels.com/prepros/) <br>
-1. Free for basic version ($27 for Pro) <br>
-2. Complies: LESS, SCSS, and more <br>
-3. Image Optimization <br>
-4. Live Browser Refresh <br>
-_(requires [Chrome extension](https://chrome.google.com/webstore/detail/prepros/bnlfjdjbjiabcgkkjaicjepbhhmeonlm?hl=en) to work)_
+&nbsp;&nbsp;1. Free for basic version ($27 for Pro) <br>
+&nbsp;&nbsp;2. Complies: LESS, SCSS, and more <br>
+&nbsp;&nbsp;3. Image Optimization <br>
+&nbsp;&nbsp;4. Live Browser Refresh <br>
+_(requires [Chrome extension](https://chrome.google.com/webstore/detail/prepros/bnlfjdjbjiabcgkkjaicjepbhhmeonlm?hl=en) to work)_ <br>
+GitHub App ([Windows](https://windows.github.com/) / [Mac](https://mac.github.com/)) <br>
+&nbsp;&nbsp;1. Easy GUI Interface <br>
+&nbsp;&nbsp;2. Requires no Terminal/Console knowledge <br>
