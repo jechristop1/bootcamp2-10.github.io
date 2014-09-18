@@ -1,7 +1,7 @@
 ##Bootcamp2 Syllabus:
 ####__Week 1__
--Installation of [Adobe Brackets IDE](https://github.com/bootcamp2-10/bootcamp2-10.github.io#adobe-brackets-ide), [Chrome](https://github.com/bootcamp2-10/bootcamp2-10.github.io#chrome), [GitHub Windows/Mac desktop app](https://github.com/bootcamp2-10/bootcamp2-10.github.io#github-for-windows--github-for-mac) <br>
-Introduction to Github <br>
+-Installation of [Chrome](https://github.com/bootcamp2-10/bootcamp2-10.github.io#chrome), [Adobe Brackets IDE](https://github.com/bootcamp2-10/bootcamp2-10.github.io#adobe-brackets-ide), [GitHub Windows/Mac desktop app](https://github.com/bootcamp2-10/bootcamp2-10.github.io#github-for-windows--github-for-mac) <br>
+-Introduction to Github <br>
 -USPS HTML5/CSS3 refresher project:
 <ul>
     <li>Basic HTML/CSS</li>
