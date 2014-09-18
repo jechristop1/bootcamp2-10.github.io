@@ -47,6 +47,12 @@
 
 ##Software we'll be using:
 ######[Adobe Brackets IDE](http://brackets.io/?lang=en)
+<ol>
+    <li>Free and Open Source</li>
+    <li>LivePreview</li>
+    <li>Code Highlighting</li>
+    <li>Easy Plugin Installation</li>
+</ol>
 &nbsp;&nbsp;1. Free and Open Source <br>
 &nbsp;&nbsp;2. LivePreview <br>
 &nbsp;&nbsp;3. Code Highlighting <br>
