@@ -49,7 +49,7 @@ _(requires [Chrome extension](https://chrome.google.com/webstore/detail/prepros/
 ######[Github for Windows](https://windows.github.com/) / [Github for Mac](https://mac.github.com/)
 &nbsp;&nbsp;1. Easy GUI Interface <br>
 &nbsp;&nbsp;2. Requires no Terminal/Console knowledge <br>
-######[Adobe Phtoshop](https://creative.adobe.com/plans/photography?sdid=KKQIN&kw=semgeneric&ttsrccat=sem-ww-di-ps-brand&skwcid=AL!3085!3!51790652058!e!!g!!adobe%20photoshop&ef_id=U9xddwAAATn7CPXO:20140918172344:s)
+######[Adobe Photoshop](https://creative.adobe.com/plans/photography?sdid=KKQIN&kw=semgeneric&ttsrccat=sem-ww-di-ps-brand&skwcid=AL!3085!3!51790652058!e!!g!!adobe%20photoshop&ef_id=U9xddwAAATn7CPXO:20140918172344:s) _(30-day trial)_
 &nbsp;&nbsp;1. Best image editor on the planet <br>
 ######[PrePros Compiler](http://alphapixels.com/prepros/)
 &nbsp;&nbsp;1. Free for basic version ($27 for Pro) <br>
