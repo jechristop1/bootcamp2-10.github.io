@@ -68,7 +68,7 @@ _(requires [Chrome extension](https://chrome.google.com/webstore/detail/prepros/
 ######[PrePros Compiler](http://alphapixels.com/prepros/) _([$27 for Pro](http://alphapixels.com/prepros/buy.php))_
 <ol>
     <li>Free for basic version</li>
-    <li>Complies: LESS, SCSS, and more</li>
+    <li>Complies: LESS, SASS, SCSS, and more</li>
     <li>Image Optimization</li>
     <li>Live Browser Refresh</li>
 </ol>
