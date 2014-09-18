@@ -40,19 +40,19 @@ Breakdown of final project / Expectations <br>
 Final student project work week Q&A <br> <br>
 
 ##Software we'll be using:
-######[Adobe Brackets IDE](http://brackets.io/?lang=en) <br>
+######[Adobe Brackets IDE](http://brackets.io/?lang=en)
 &nbsp;&nbsp;1. Free and Open Source <br>
 &nbsp;&nbsp;2. LivePreview <br>
 &nbsp;&nbsp;3. Code Highlighting <br>
 &nbsp;&nbsp;4. Easy Plugin Installation <br>
-######[PrePros Compiler](http://alphapixels.com/prepros/) <br>
-&nbsp;&nbsp;1. Free for basic version ($27 for Pro) <br>
-&nbsp;&nbsp;2. Complies: LESS, SCSS, and more <br>
-&nbsp;&nbsp;3. Image Optimization <br>
-&nbsp;&nbsp;4. Live Browser Refresh <br>
 _(requires [Chrome extension](https://chrome.google.com/webstore/detail/prepros/bnlfjdjbjiabcgkkjaicjepbhhmeonlm?hl=en) to work)_ <br>
 ######[Github for Windows](https://windows.github.com/) / [Github for Mac](https://mac.github.com/)
 &nbsp;&nbsp;1. Easy GUI Interface <br>
 &nbsp;&nbsp;2. Requires no Terminal/Console knowledge <br>
-######[Adobe Phtoshop](https://creative.adobe.com/plans/photography?sdid=KKQIN&kw=semgeneric&ttsrccat=sem-ww-di-ps-brand&skwcid=AL!3085!3!51790652058!e!!g!!adobe%20photoshop&ef_id=U9xddwAAATn7CPXO:20140918172344:s) <br>
-&nbsp;&nbsp;1. Best image editor on the planet
+######[Adobe Phtoshop](https://creative.adobe.com/plans/photography?sdid=KKQIN&kw=semgeneric&ttsrccat=sem-ww-di-ps-brand&skwcid=AL!3085!3!51790652058!e!!g!!adobe%20photoshop&ef_id=U9xddwAAATn7CPXO:20140918172344:s)
+&nbsp;&nbsp;1. Best image editor on the planet <br>
+######[PrePros Compiler](http://alphapixels.com/prepros/)
+&nbsp;&nbsp;1. Free for basic version ($27 for Pro) <br>
+&nbsp;&nbsp;2. Complies: LESS, SCSS, and more <br>
+&nbsp;&nbsp;3. Image Optimization <br>
+&nbsp;&nbsp;4. Live Browser Refresh <br>
