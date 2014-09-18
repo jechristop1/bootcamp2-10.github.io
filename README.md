@@ -10,6 +10,6 @@
 &nbsp;&nbsp;3. Image Optimization <br>
 &nbsp;&nbsp;4. Live Browser Refresh <br>
 _(requires [Chrome extension](https://chrome.google.com/webstore/detail/prepros/bnlfjdjbjiabcgkkjaicjepbhhmeonlm?hl=en) to work)_ <br>
-######GitHub App ([Windows](https://windows.github.com/) / [Mac](https://mac.github.com/)) <br>
+######[Github for Windows](https://windows.github.com/) / [Github for Mac](https://mac.github.com/)
 &nbsp;&nbsp;1. Easy GUI Interface <br>
 &nbsp;&nbsp;2. Requires no Terminal/Console knowledge <br>
