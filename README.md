@@ -1,12 +1,11 @@
 ##Software we'll be using:
 Brackets IDE<br />
-&nbsp;&nbsp;&nbsp;&nbsp;1. LivePreview<br />
-&nbsp;&nbsp;&nbsp;&nbsp;2. Code Highlighting<br />
-&nbsp;&nbsp;&nbsp;&nbsp;3. Easy Plugin Installation<br />
-&nbsp;&nbsp;&nbsp;&nbsp;4. Completely Free and Open Source<br /><br />
-PrePros CSS Compiler<br />
-&nbsp;&nbsp;&nbsp;&nbsp;1. LivePreview
-&nbsp;&nbsp;&nbsp;&nbsp;2. Compiles
+	1. LivePreview<br />
+	2. Code Highlighting<br />
+	3. Easy Plugin Installation<br />
+	4. Completely Free and Open Source<br /><br />
+PreProc Compiler<br />
+
 Github GUI
 
 Photoshop CS3 or above
