@@ -1,13 +1,15 @@
 ##Bootcamp2 Syllabus:
 ####__Week 1__
-Installation of Adobe Brackets IDE, Chrome, GitHub Windows/Mac desktop app Introduction to Github <br>
-USPS HTML5/CSS3 refresher project: <br>
-Basic HTML/CSS <br>
-Advanced HTML5 tags/CSS3 properties <br>
-Floats <br>
-Relative/Absolute positioning <br>
-Pixels vs Ems (time permitting) <br>
-jQuery global font-size increase/decrease (time permitting) <br>
+-Installation of Adobe Brackets IDE, Chrome, GitHub Windows/Mac desktop app Introduction to Github <br>
+-USPS HTML5/CSS3 refresher project: <br>
+<ul>
+<li>Basic HTML/CSS</li>
+<li>Advanced HTML5 tags/CSS3 properties</li>
+<li>Floats</li>
+<li>Relative/Absolute positioning</li>
+<li>Pixels vs Ems (time permitting)</li>
+<li>jQuery global font-size increase/decrease (time permitting)</li>
+</ul>
 
 ####__Week 2__
 Installation of PrePros <br>
