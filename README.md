@@ -46,6 +46,7 @@
 -Q & A <br> <br>
 
 ##Software we'll be using:
+######[Chrome](https://www.google.com/chrome/)
 ######[Adobe Brackets IDE](http://brackets.io/?lang=en)
 <ol>
     <li>Free and Open Source</li>
