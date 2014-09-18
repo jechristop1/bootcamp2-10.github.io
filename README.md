@@ -1,6 +1,7 @@
 ##Bootcamp2 Syllabus:
 ####__Week 1__
--Installation of Adobe Brackets IDE, Chrome, GitHub Windows/Mac desktop app Introduction to Github <br>
+-Installation of [Adobe Brackets IDE](https://github.com/bootcamp2-10/bootcamp2-10.github.io#adobe-brackets-ide), [Chrome](https://github.com/bootcamp2-10/bootcamp2-10.github.io#chrome), [GitHub Windows/Mac desktop app](https://github.com/bootcamp2-10/bootcamp2-10.github.io#github-for-windows--github-for-mac) <br>
+Introduction to Github <br>
 -USPS HTML5/CSS3 refresher project:
 <ul>
     <li>Basic HTML/CSS</li>
@@ -12,15 +13,15 @@
 </ul>
 
 ####__Week 2__
--Installation of PrePros <br>
+-Installation of [PrePros](https://github.com/bootcamp2-10/bootcamp2-10.github.io#prepros-compiler-27-for-pro) <br>
 -Introduction to SASS _([nice writeup of differences between SASS/SCSS](http://www.sitepoint.com/whats-difference-sass-scss/))_ <br>
 
 ####__Week 3__
 #####SASS usage quiz!
 -What makes a website responsive? <br>
 -Introduction to Viewport meta tag & Media Queries <br>
--Introduction to Bootstrap v3.2.x <br>
--Introduction to PureCSS v0.5.x <br>
+-Introduction to [Bootstrap v3.2.x](http://getbootstrap.com/) <br>
+-Introduction to [PureCSS v0.5.x](http://purecss.io/) <br>
 -Bootstrap vs PureCSS (advantages/disadvantages) <br>
 
 ####__Week 4__
@@ -29,7 +30,7 @@
 
 ####__Week 5__
 #####Flexbox usage quiz!
--Installation of Photoshop CC 30 day trial <br>
+-Installation of [Photoshop CC](https://github.com/bootcamp2-10/bootcamp2-10.github.io#adobe-photoshop-30-day-trial) 30 day trial <br>
 -Introduction to Photoshop <br>
 <ul>
     <li>Basic tool usage</li>
