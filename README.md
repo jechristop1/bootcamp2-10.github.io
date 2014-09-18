@@ -63,7 +63,7 @@ _(requires [Chrome extension](https://chrome.google.com/webstore/detail/prepros/
 <ol>
     <li>Best image editor on the planet</li>
 </ol>
-######[PrePros Compiler](http://alphapixels.com/prepros/) ([$27 for Pro](http://alphapixels.com/prepros/buy.php))
+######[PrePros Compiler](http://alphapixels.com/prepros/) _([$27 for Pro](http://alphapixels.com/prepros/buy.php))_
 <ol>
     <li>Free for basic version</li>
     <li>Complies: LESS, SCSS, and more</li>
