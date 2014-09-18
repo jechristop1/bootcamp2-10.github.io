@@ -29,13 +29,15 @@ Introduction to Flexbox <br>
 
 ####__Week 5__
 #####Flexbox usage quiz
-Installation of Photoshop CC 30 day trial Introduction to Photoshop <br>
-Basic tool usage <br>
-Example walkthroughs <br>
-Image touch up <br>
-Tattoo application <br>
-Image cropping technique via color channels Example walkthrough <br>
-Removal of model from background <br>
+Installation of Photoshop CC 30 day trial Introduction to Photoshop
+<ul>
+    <li>Basic tool usage</li>
+    <li>Example walkthroughs</li>
+    <li>Image touch up</li>
+    <li>Tattoo application</li>
+    <li>Image cropping technique via color channels Example walkthrough</li>
+    <li>Removal of model from background</li>
+</ul>
 
 ####__Week 6__
 Breakdown of final project / Expectations <br>
