@@ -1,35 +1,36 @@
 ##Bootcamp2 Syllabus:
 ####__Week 1__
 -Installation of Adobe Brackets IDE, Chrome, GitHub Windows/Mac desktop app Introduction to Github <br>
--USPS HTML5/CSS3 refresher project: <br>
+-USPS HTML5/CSS3 refresher project:
 <ul>
-<li>Basic HTML/CSS</li>
-<li>Advanced HTML5 tags/CSS3 properties</li>
-<li>Floats</li>
-<li>Relative/Absolute positioning</li>
-<li>Pixels vs Ems (time permitting)</li>
-<li>jQuery global font-size increase/decrease (time permitting)</li>
+    <li>Basic HTML/CSS</li>
+    <li>Advanced HTML5 tags/CSS3 properties</li>
+    <li>Floats</li>
+    <li>Relative/Absolute positioning</li>
+    <li>Pixels vs Ems (time permitting)</li>
+    <li>jQuery global font-size increase/decrease (time permitting)</li>
 </ul>
 
 ####__Week 2__
-Installation of PrePros <br>
-Introduction to SASS _([nice writeup of differences between SASS/SCSS](http://www.sitepoint.com/whats-difference-sass-scss/))_ <br>
+-Installation of PrePros <br>
+-Introduction to SASS _([nice writeup of differences between SASS/SCSS](http://www.sitepoint.com/whats-difference-sass-scss/))_ <br>
 
 ####__Week 3__
-#####SASS usage quiz
-What makes a website responsive? <br>
-Introduction to Viewport meta tag & Media Queries <br>
-Introduction to Bootstrap v3.2.x <br>
-Introduction to PureCSS v0.5.x <br>
-Bootstrap vs PureCSS (advantages/disadvantages) <br>
+#####SASS usage quiz!
+-What makes a website responsive? <br>
+-Introduction to Viewport meta tag & Media Queries <br>
+-Introduction to Bootstrap v3.2.x <br>
+-Introduction to PureCSS v0.5.x <br>
+-Bootstrap vs PureCSS (advantages/disadvantages) <br>
 
 ####__Week 4__
-#####Media Queries / Bootstrap / PureCSS usage quiz
-Introduction to Flexbox <br>
+#####Media Queries / Bootstrap / PureCSS usage quiz!
+-Introduction to Flexbox <br>
 
 ####__Week 5__
-#####Flexbox usage quiz
-Installation of Photoshop CC 30 day trial Introduction to Photoshop
+#####Flexbox usage quiz!
+-Installation of Photoshop CC 30 day trial <br>
+-Introduction to Photoshop <br>
 <ul>
     <li>Basic tool usage</li>
     <li>Example walkthroughs</li>
@@ -40,9 +41,9 @@ Installation of Photoshop CC 30 day trial Introduction to Photoshop
 </ul>
 
 ####__Week 6__
-Breakdown of final project / Expectations <br>
-Final student project work week <br>
-Q & A <br> <br>
+-Breakdown of final project / Expectations <br>
+-Final student project work week <br>
+-Q & A <br> <br>
 
 ##Software we'll be using:
 ######[Adobe Brackets IDE](http://brackets.io/?lang=en)
