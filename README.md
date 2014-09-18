@@ -11,8 +11,7 @@ jQuery global font-size increase/decrease (time permitting) <br>
 
 ####__Week 2__
 Installation of PrePros <br>
-Introduction to SASS <br>
-_(nice writeup of differences between SASS/SCSS)[http://www.sitepoint.com/whats-difference-sass-scss/]_ <br>
+Introduction to SASS _([nice writeup of differences between SASS/SCSS](http://www.sitepoint.com/whats-difference-sass-scss/))_ <br>
 
 ####__Week 3__
 #####SASS usage quiz
