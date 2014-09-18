@@ -53,18 +53,20 @@
     <li>Code Highlighting</li>
     <li>Easy Plugin Installation</li>
 </ol>
-&nbsp;&nbsp;1. Free and Open Source <br>
-&nbsp;&nbsp;2. LivePreview <br>
-&nbsp;&nbsp;3. Code Highlighting <br>
-&nbsp;&nbsp;4. Easy Plugin Installation <br>
 _(requires [Chrome extension](https://chrome.google.com/webstore/detail/prepros/bnlfjdjbjiabcgkkjaicjepbhhmeonlm?hl=en) to work)_ <br>
 ######[Github for Windows](https://windows.github.com/) / [Github for Mac](https://mac.github.com/)
-&nbsp;&nbsp;1. Easy GUI Interface <br>
-&nbsp;&nbsp;2. Requires no Terminal/Console knowledge <br>
+<ol>
+    <li>Easy GUI Interface</li>
+    <li>Requires no Terminal/Console knowledge</li>
+</ol>
 ######[Adobe Photoshop](https://creative.adobe.com/plans/photography?sdid=KKQIN&kw=semgeneric&ttsrccat=sem-ww-di-ps-brand&skwcid=AL!3085!3!51790652058!e!!g!!adobe%20photoshop&ef_id=U9xddwAAATn7CPXO:20140918172344:s) _(30-day trial)_
-&nbsp;&nbsp;1. Best image editor on the planet <br>
+<ol>
+    <li>Best image editor on the planet</li>
+</ol>
 ######[PrePros Compiler](http://alphapixels.com/prepros/)
-&nbsp;&nbsp;1. Free for basic version ($27 for Pro) <br>
-&nbsp;&nbsp;2. Complies: LESS, SCSS, and more <br>
-&nbsp;&nbsp;3. Image Optimization <br>
-&nbsp;&nbsp;4. Live Browser Refresh <br>
+<ol>
+    <li>Free for basic version ([$27 for Pro](http://alphapixels.com/prepros/buy.php))</li>
+    <li>Complies: LESS, SCSS, and more</li>
+    <li>Image Optimization</li>
+    <li>Live Browser Refresh</li>
+</ol>
