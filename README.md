@@ -1,6 +1,6 @@
 ##Software we'll be using:
 Adobe Brackets IDE <br>
-1. Free and Open Source <br>
-2. LivePreview <br>
-3. Code Highlighting <br>
-4. Easy Plugin Installation <br>
+&nbsp;&nbsp;1. Free and Open Source <br>
+&nbsp;&nbsp;2. LivePreview <br>
+&nbsp;&nbsp;3. Code Highlighting <br>
+&nbsp;&nbsp;4. Easy Plugin Installation <br>
