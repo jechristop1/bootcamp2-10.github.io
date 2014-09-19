@@ -1,8 +1,19 @@
-/* line 5, styles.scss */
-body {
-  background-color: red;
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
 }
-/* line 7, styles.scss */
-body h1 {
-  color: orange;
+
+body {
+    margin: 0;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+nav ul li {
+    width: 25%;
+    display: inline-block;
+    float: left;
 }
