@@ -72,3 +72,7 @@ _(requires [Chrome extension](https://chrome.google.com/webstore/detail/prepros/
     <li>Image Optimization</li>
     <li>Live Browser Refresh</li>
 </ol>
+
+
+##Additional info:
+-Hosting your site through [Github](https://github.com/)? Want to use your own domain name? [Read Here](https://help.github.com/articles/about-custom-domains-for-github-pages-sites).
