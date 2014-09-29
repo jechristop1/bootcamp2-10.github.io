@@ -1,0 +1,63 @@
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+header, footer {
+    height: 50px;
+}
+article, aside {
+    height: 200px;
+    float: left;
+}
+h1 {margin: 0;}
+
+
+header {
+    background-color: blue;
+}
+article {
+    background-color: green;
+    width: 60%;
+}
+aside {
+    background-color: yellow;
+    width: 40%;
+}
+footer {
+    background-color: purple;
+}
+
+header:last-child{
+    display: none;
+}
+
+
+@media print {
+    header {
+        display: none;
+    }
+    footer {
+        display: none;
+    }
+}
+
+@media (min-width: 900px){
+    article {
+        float: right;
+        width: 80%;
+    }
+    aside {
+        width: 20%;
+    }
+}
+
+@media (max-width: 580px){
+    header:first-child{
+        display: none;
+    }
+    header#last{
+        display: block;
+    }
+}

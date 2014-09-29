@@ -110,3 +110,13 @@ footer {
     padding: 40px 0;
 }
 
+
+@media (max-width: 488px){
+
+    nav ul li {
+        width: 100%;
+        display: block;
+    }
+
+}
+
