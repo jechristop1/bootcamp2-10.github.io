@@ -59,11 +59,11 @@ main img {
     left: 10%;
     padding: 10px;
     border: 1px solid #ccc;
-    transition: all 150ms ease-out;
+    transition: all 500ms ease-out;
     background-color: #ddd;
 }
 main img:hover {
-    transform: rotate(180deg);
+    transform: rotate(-40deg);
     left: 0%;
 }
 article {
