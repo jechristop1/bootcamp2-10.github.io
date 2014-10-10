@@ -1,0 +1,50 @@
+html, body {
+    height: 100%;
+    margin: 0;padding: 0;
+}
+
+header {background-color: blue;}
+#hero {background-color: teal;}
+article {background-color: orange;}
+aside {background-color: purple;}
+.promo {background-color: aqua;}
+footer {background-color: green;}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+header {
+    flex: 22;
+}
+#hero {
+    flex: 1;
+}
+main {
+    flex: 1;
+    display: flex;
+}
+article {
+    flex: 4;
+}
+aside {
+    flex: 1;
+}
+#promo-wrap {
+    flex: 1;
+    display: flex;
+}
+.promo {
+    flex: 1;
+}
+footer {
+    flex: 1;
+}
+
+
+@media (max-width: 580px){
+    main, #promo-wrap {
+        flex-direction: column;
+    }
+}

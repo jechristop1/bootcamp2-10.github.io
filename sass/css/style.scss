@@ -1,0 +1,46 @@
+@import "flexbox";
+@import "styles";
+
+// sass placeholder
+%font-style{
+    color: $dkgrey;
+    line-height: 3;
+    font-weight: 300;
+}
+h1 {@extend %font-style;}
+p {@extend %font-style;}
+
+// sass mixin
+@mixin font-style($var){
+    color: $dkgrey;
+    line-height: $var;
+    font-weight: 300;
+    font-size: $var;
+}
+h1 {@include font-style($size);}
+p {@include font-style($size);}
+
+// sass function
+@function my-calc($some-num, $another-num){
+    @return $some-num + $another-num;
+}
+
+
+ul {
+    font-size: my-calc(10px, 50px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

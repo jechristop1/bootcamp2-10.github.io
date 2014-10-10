@@ -1,0 +1,87 @@
+/* line 1, _flexbox.scss */
+body {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+}
+
+/* line 15, _styles.scss */
+body {
+  background-color: #aeaeae;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 100;
+}
+
+/* line 20, _styles.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 200;
+}
+
+/* line 23, _styles.scss */
+header {
+  background-color: purple;
+}
+
+/* line 26, _styles.scss */
+main {
+  background-color: green;
+}
+/* line 28, _styles.scss */
+main article {
+  background-color: red;
+}
+/* line 31, _styles.scss */
+main aside {
+  background-color: pink;
+}
+/* line 33, _styles.scss */
+main aside ul {
+  list-style: none;
+}
+
+/* line 38, _styles.scss */
+footer {
+  background-color: teal;
+}
+
+/* line 5, style.scss */
+h1, p {
+  color: #606060;
+  line-height: 3;
+  font-weight: 300;
+}
+
+/* line 20, style.scss */
+h1 {
+  color: #606060;
+  line-height: 20px;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+/* line 21, style.scss */
+p {
+  color: #606060;
+  line-height: 20px;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+/* line 29, style.scss */
+ul {
+  font-size: 60px;
+}

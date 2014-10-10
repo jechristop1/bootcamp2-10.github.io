@@ -1,0 +1,41 @@
+$red: red;
+$purple: purple;
+$pink: pink;
+$green: green;
+$teal: teal;
+$blue: blue;
+$ltgrey: #aeaeae;
+$font-weight: 100;
+
+$var: 50px;
+$dkgrey: #606060;
+$size: 20px;
+$h1: 3;
+
+body {
+    background-color: $ltgrey;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-weight: $font-weight;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: ($font-weight * 2);
+}
+header {
+    background-color: $purple;
+}
+main {
+    background-color: $green;
+    article {
+        background-color: $red;
+    }
+    aside {
+        background-color: $pink;
+        ul {
+            list-style: none;
+        }
+    }
+}
+footer {
+    background-color: $teal;
+}
+
